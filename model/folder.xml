@@ -1,5 +1,6 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FAIR Data Infrastructures"
+    name="Reference Architecture for FAIR Data Infrastructures"
     id="id-3b7d80b7034c4c77bf160c6465a684d0"
+    purpose="Reference Architecture for FAIR Data Infrastructures"
     version="5.0.0"/>
