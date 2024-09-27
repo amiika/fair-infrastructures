@@ -1,4 +1,5 @@
 <archimate:BusinessCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Standardization"
-    id="id-60eadda102da4b3b938a3ad49a3d440b"/>
+    id="id-60eadda102da4b3b938a3ad49a3d440b"
+    documentation="The process of ensuring that data across different systems or organizations conforms to a standard format and structure, making it easier to share, integrate, and analyze."/>

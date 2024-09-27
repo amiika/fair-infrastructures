@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data cube"
-    id="id-b9fbaac7a6f840aabc532966b92756cb"/>
+    id="id-b9fbaac7a6f840aabc532966b92756cb"
+    documentation="A multi-dimensional array of data, typically used in data warehousing and business intelligence for organizing and analyzing data across different dimensions."/>

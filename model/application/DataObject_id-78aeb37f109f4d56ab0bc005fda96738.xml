@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Raw Data"
+    id="id-78aeb37f109f4d56ab0bc005fda96738"
+    documentation="Unprocessed data that has been collected directly from the source without any transformation, cleaning, or aggregation."/>

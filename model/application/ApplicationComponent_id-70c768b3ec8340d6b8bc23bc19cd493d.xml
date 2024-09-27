@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Cleaning Component"
+    id="id-70c768b3ec8340d6b8bc23bc19cd493d"
+    documentation="A system or software component responsible for the cleaning and preprocessing of raw data before it is used for analysis or further processing."/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ingestion frequency"
-    id="id-915dd4979db44944a2bc0efcb46ee84e"/>
+    id="id-915dd4979db44944a2bc0efcb46ee84e"
+    documentation="The rate at which new data is collected and integrated into a system or database for further processing."/>

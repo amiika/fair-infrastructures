@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fair Research Dataset"
-    id="id-8614077189064d3288d7ad1c16638a44"/>
+    id="id-8614077189064d3288d7ad1c16638a44"
+    documentation="A research dataset that complies with FAIR principles, making it easily discoverable and usable by others."/>

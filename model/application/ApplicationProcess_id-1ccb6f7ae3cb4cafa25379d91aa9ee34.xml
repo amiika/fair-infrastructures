@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verification"
-    id="id-1ccb6f7ae3cb4cafa25379d91aa9ee34"/>
+    id="id-1ccb6f7ae3cb4cafa25379d91aa9ee34"
+    documentation="The process of confirming that data or processes meet defined requirements and specifications, typically in quality assurance."/>

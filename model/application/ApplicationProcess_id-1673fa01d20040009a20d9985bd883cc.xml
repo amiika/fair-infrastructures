@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="FAIR validation"
-    id="id-1673fa01d20040009a20d9985bd883cc"/>
+    id="id-1673fa01d20040009a20d9985bd883cc"
+    documentation="The process of verifying whether data adheres to FAIR principles, ensuring it is findable, accessible, interoperable, and reusable."/>

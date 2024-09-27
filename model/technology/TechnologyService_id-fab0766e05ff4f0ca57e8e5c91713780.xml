@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Source systems"
+    id="id-fab0766e05ff4f0ca57e8e5c91713780"
+    documentation="Original systems where data is created or initially stored, serving as the primary data sources for data integration and processing."/>

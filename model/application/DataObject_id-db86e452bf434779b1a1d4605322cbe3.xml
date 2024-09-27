@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Querable Data Stream"
-    id="id-db86e452bf434779b1a1d4605322cbe3"/>
+    id="id-db86e452bf434779b1a1d4605322cbe3"
+    documentation="A data stream that can be queried or accessed in real-time for analysis or monitoring purposes."/>

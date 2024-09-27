@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cleaned Data"
-    id="id-75da87ec51004d0c8ff803991521ba5a"/>
+    id="id-75da87ec51004d0c8ff803991521ba5a"
+    documentation="Data that has undergone a cleaning process to remove errors, inconsistencies, and duplicate entries, ensuring higher quality and usability."/>

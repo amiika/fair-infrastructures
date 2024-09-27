@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fair Data Source"
-    id="id-563b2110ee0141a193d1bb867a2d029e"/>
+    id="id-563b2110ee0141a193d1bb867a2d029e"
+    documentation="A data source that adheres to the FAIR principles (Findable, Accessible, Interoperable, and Reusable), ensuring data quality and compliance with FAIR standards."/>

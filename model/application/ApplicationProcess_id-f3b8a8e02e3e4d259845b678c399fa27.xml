@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Workflow Management"
-    id="id-f3b8a8e02e3e4d259845b678c399fa27"/>
+    id="id-f3b8a8e02e3e4d259845b678c399fa27"
+    documentation="The process of organizing and optimizing the flow of tasks and information in a data processing pipeline or system."/>

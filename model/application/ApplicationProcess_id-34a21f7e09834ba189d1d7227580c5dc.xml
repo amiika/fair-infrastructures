@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cleaning"
-    id="id-34a21f7e09834ba189d1d7227580c5dc"/>
+    id="id-34a21f7e09834ba189d1d7227580c5dc"
+    documentation="The process of detecting and correcting (or removing) corrupt or inaccurate records from a dataset, improving data quality."/>

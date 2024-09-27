@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Devices"
-    id="id-2a5794037724434191ae58b95b64c332"/>
+    id="id-2a5794037724434191ae58b95b64c332"
+    documentation="Hardware tools and equipment used for data collection, processing, and storage, such as sensors, computers, and mobile devices."/>

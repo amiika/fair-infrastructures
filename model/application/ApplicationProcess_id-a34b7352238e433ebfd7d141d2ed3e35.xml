@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ingestion Pipeline"
-    id="id-a34b7352238e433ebfd7d141d2ed3e35"/>
+    id="id-a34b7352238e433ebfd7d141d2ed3e35"
+    documentation="A sequence of steps that facilitate the input and integration of data into a system for processing and analysis."/>

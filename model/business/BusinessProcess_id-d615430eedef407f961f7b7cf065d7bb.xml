@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Collection"
-    id="id-d615430eedef407f961f7b7cf065d7bb"/>
+    id="id-d615430eedef407f961f7b7cf065d7bb"
+    documentation="The process of gathering raw data from various sources, whether manually or through automated systems, for further processing and analysis."/>

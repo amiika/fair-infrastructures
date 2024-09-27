@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fair Publication Pipeline"
-    id="id-6154fc708d304c598d2ffa53a05c04b8"/>
+    id="id-6154fc708d304c598d2ffa53a05c04b8"
+    documentation="The structured workflow for publishing data in a manner that adheres to FAIR principles (Findable, Accessible, Interoperable, and Reusable)."/>

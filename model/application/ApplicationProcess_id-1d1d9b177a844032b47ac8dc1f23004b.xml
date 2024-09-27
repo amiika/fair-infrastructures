@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data preservation"
-    id="id-1d1d9b177a844032b47ac8dc1f23004b"/>
+    id="id-1d1d9b177a844032b47ac8dc1f23004b"
+    documentation="The process of maintaining and safeguarding data to ensure its long-term accessibility and usability."/>

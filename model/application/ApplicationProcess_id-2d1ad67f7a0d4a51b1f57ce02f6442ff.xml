@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transformation"
-    id="id-2d1ad67f7a0d4a51b1f57ce02f6442ff"/>
+    id="id-2d1ad67f7a0d4a51b1f57ce02f6442ff"
+    documentation="The process of converting data from one format, structure, or model to another for compatibility or analysis purposes."/>

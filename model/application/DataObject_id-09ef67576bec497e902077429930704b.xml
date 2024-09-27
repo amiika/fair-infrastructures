@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Querable Stuctured Data"
-    id="id-09ef67576bec497e902077429930704b"/>
+    name="Querable Structured Data"
+    id="id-09ef67576bec497e902077429930704b"
+    documentation="Structured data that can be easily queried, analyzed, and used in various applications and systems."/>

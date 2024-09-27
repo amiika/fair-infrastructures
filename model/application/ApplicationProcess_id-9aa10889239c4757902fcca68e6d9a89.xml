@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Synthesizing"
-    id="id-9aa10889239c4757902fcca68e6d9a89"/>
+    id="id-9aa10889239c4757902fcca68e6d9a89"
+    documentation="The process of combining different data sources to generate new insights or data products."/>

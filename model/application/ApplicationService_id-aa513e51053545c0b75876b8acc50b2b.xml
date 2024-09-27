@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Raw Data Source"
-    id="id-aa513e51053545c0b75876b8acc50b2b"/>
+    id="id-aa513e51053545c0b75876b8acc50b2b"
+    documentation="A source of unprocessed or untransformed data, typically collected directly from the origin systems or devices."/>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data lineage systems"
+    id="id-bced1fc6c68f469d8351db970a20b630"
+    documentation="Systems that track the origins, movement, and transformations of data as it flows through different processes and systems."/>

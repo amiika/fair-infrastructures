@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Smart Data Source"
-    id="id-d0911f734bb64711b84df76baad8b070"/>
+    id="id-d0911f734bb64711b84df76baad8b070"
+    documentation="A data source that has been enriched with additional context, metadata, or intelligence to enable more advanced analysis or decision-making."/>

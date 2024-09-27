@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fair Data Workflow"
-    id="id-c939c8998d2c4b538a3bfad7feadb7ba"/>
+    id="id-c939c8998d2c4b538a3bfad7feadb7ba"
+    documentation="A set of processes and procedures designed to handle data in a manner that adheres to FAIR principles."/>

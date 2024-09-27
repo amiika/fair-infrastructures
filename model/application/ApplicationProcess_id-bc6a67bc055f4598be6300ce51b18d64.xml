@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Validation"
-    id="id-bc6a67bc055f4598be6300ce51b18d64"/>
+    id="id-bc6a67bc055f4598be6300ce51b18d64"
+    documentation="The process of checking the accuracy and integrity of data to ensure it meets the required standards and specifications."/>

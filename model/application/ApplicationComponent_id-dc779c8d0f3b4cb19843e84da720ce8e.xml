@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FAIR Validation Component"
+    id="id-dc779c8d0f3b4cb19843e84da720ce8e"
+    documentation="A tool or system that checks whether data adheres to FAIR principles, ensuring compliance and quality of data publication."/>

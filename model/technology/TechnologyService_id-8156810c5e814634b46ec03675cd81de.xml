@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Database"
-    id="id-8156810c5e814634b46ec03675cd81de"/>
+    id="id-8156810c5e814634b46ec03675cd81de"
+    documentation="An organized collection of structured information or data, typically stored electronically in a computer system."/>

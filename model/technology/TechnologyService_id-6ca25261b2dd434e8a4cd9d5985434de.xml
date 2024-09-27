@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="APIs"
-    id="id-6ca25261b2dd434e8a4cd9d5985434de"/>
+    id="id-6ca25261b2dd434e8a4cd9d5985434de"
+    documentation="Application Programming Interfaces that allow different software applications to communicate and interact with each other, enabling integration and functionality sharing."/>

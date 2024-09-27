@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data mining"
-    id="id-d8882c4175d34e89b7bd05fc7df9a361"/>
+    id="id-d8882c4175d34e89b7bd05fc7df9a361"
+    documentation="The practice of examining large datasets to discover patterns, trends, and insights that can inform decision-making."/>

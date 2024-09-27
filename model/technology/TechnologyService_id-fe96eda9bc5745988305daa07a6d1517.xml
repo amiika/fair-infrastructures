@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Quality assurance"
-    id="id-fe96eda9bc5745988305daa07a6d1517"/>
+    id="id-fe96eda9bc5745988305daa07a6d1517"
+    documentation="Processes and systems designed to ensure that data and data-related processes meet defined quality standards and requirements."/>

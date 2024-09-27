@@ -1,4 +1,5 @@
 <archimate:Equipment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hardware"
-    id="id-b6008759853f4aaea90ffae132502475"/>
+    id="id-b6008759853f4aaea90ffae132502475"
+    documentation="Physical components of a computer system or data infrastructure, including servers, storage devices, and networking equipment."/>

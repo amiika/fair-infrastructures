@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fair Publication Component"
+    id="id-5cb30378e23b49e8850b5291051093e2"
+    documentation="A system or tool that manages the process of publishing data in a manner that conforms to FAIR principles, ensuring that data is Findable, Accessible, Interoperable, and Reusable."/>

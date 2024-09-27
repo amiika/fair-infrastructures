@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Harmonization Pipeline"
-    id="id-c9a11b59f8cc49ae8fc793204a04aece"/>
+    id="id-c9a11b59f8cc49ae8fc793204a04aece"
+    documentation="A structured process that ensures data is transformed into a common format or standard for ease of use across different systems or databases."/>

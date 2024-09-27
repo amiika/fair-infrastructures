@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingestion Pipeline Component"
+    id="id-9f381b4cbe7b42019d1c47047e84ce43"
+    documentation="A module or system responsible for managing the sequence of steps involved in the collection and integration of data from various sources into a central system."/>

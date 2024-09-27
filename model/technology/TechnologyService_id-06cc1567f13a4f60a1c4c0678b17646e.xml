@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data ingestion"
-    id="id-06cc1567f13a4f60a1c4c0678b17646e"/>
+    id="id-06cc1567f13a4f60a1c4c0678b17646e"
+    documentation="The process of importing, transferring, loading, and processing data for later use or storage in a database or data warehouse."/>

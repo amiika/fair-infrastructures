@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dumb Data Lake"
-    id="id-1476dd75986748bab22c6afdee244c25"/>
+    id="id-1476dd75986748bab22c6afdee244c25"
+    documentation="A storage repository that holds a vast amount of raw data in its native format, typically without any preprocessing or structuring."/>

@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Machine learning"
-    id="id-a189329081114f9bac28324b35626448"/>
+    id="id-a189329081114f9bac28324b35626448"
+    documentation="A subset of artificial intelligence that involves the development of algorithms that can learn from and make predictions or decisions based on data."/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ingested Data Source"
-    id="id-10ca9fa9cd6e4b1abc7f0fdb40d07e80"/>
+    id="id-10ca9fa9cd6e4b1abc7f0fdb40d07e80"
+    documentation="A data source that has been collected and integrated into a system for analysis or further processing."/>

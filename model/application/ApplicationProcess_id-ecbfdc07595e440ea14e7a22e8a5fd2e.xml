@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Processing"
-    id="id-ecbfdc07595e440ea14e7a22e8a5fd2e"/>
+    id="id-ecbfdc07595e440ea14e7a22e8a5fd2e"
+    documentation="The sequence of actions applied to raw data to convert it into a usable or meaningful format."/>

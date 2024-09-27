@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Process engine"
-    id="id-4dcab330d90a43b9a4c6efa61be0a2ae"/>
+    id="id-4dcab330d90a43b9a4c6efa61be0a2ae"
+    documentation="Software that manages and executes business processes, often using defined workflows to coordinate tasks and data flows."/>

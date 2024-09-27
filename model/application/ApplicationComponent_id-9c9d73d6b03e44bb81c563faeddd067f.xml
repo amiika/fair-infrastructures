@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Processing Component"
+    id="id-9c9d73d6b03e44bb81c563faeddd067f"
+    documentation="A system or tool that applies transformations, aggregations, and calculations to raw data, preparing it for analysis or reporting."/>

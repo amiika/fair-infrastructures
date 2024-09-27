@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vector"
-    id="id-0c03d93902ee4304aa394170cecb0682"/>
+    id="id-0c03d93902ee4304aa394170cecb0682"
+    documentation="Data structures used to store and manipulate mathematical vectors, often used in machine learning and data analysis applications."/>

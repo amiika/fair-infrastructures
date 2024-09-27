@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Structured Data Dump"
-    id="id-4bbc3513e1b74bbea0a883ddde32332b"/>
+    id="id-4bbc3513e1b74bbea0a883ddde32332b"
+    documentation="A collection of structured data exported from a system or database, typically used for backup, analysis, or migration purposes."/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Collection"
-    id="id-a603e6ad55a8440c809ea1e967a8f13b"/>
+    id="id-a603e6ad55a8440c809ea1e967a8f13b"
+    documentation="The process of gathering and storing data from different sources for further analysis or processing."/>

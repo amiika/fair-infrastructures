@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Ingestion Component"
+    id="id-91e9a71c2a0649029e94e0f3a01941f3"
+    documentation="A system or tool responsible for collecting and integrating data from various sources into a central repository for analysis or further processing."/>
