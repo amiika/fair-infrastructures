@@ -7,7 +7,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-99f8c5a2a9614d439e94193c98e2926b"
       name="Data engineering"
-      textAlignment="1">
+      textAlignment="1"
+      documentation="Data Engineering Processes and Workflows implemented to collect, create, process and publish research data">
     <bounds
         x="12"
         y="228"
@@ -433,7 +434,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-2b97393c56774ff492c847c8d7d1aa70"
       name="Technology"
-      textAlignment="1">
+      textAlignment="1"
+      documentation="Technological components needed to implement FAIR Data Infrastucture">
     <bounds
         x="12"
         y="816"
@@ -1713,7 +1715,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-2c279795b8b843109c51be9c7edd9535"
       name="Data"
-      textAlignment="1">
+      textAlignment="1"
+      documentation="Different types of data sources on different maturity level">
     <bounds
         x="12"
         y="468"
@@ -2227,7 +2230,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="id-6e7b56605c104621a5b1371bd1181b8f"
       name="Data Management"
-      textAlignment="1">
+      textAlignment="1"
+      documentation="Data management processes governing creation Research Data Lifecycle and Governance of Research Data Infrastructures">
     <bounds
         x="12"
         y="12"
