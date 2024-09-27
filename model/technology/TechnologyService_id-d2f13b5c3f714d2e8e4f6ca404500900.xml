@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Code Repository"
+    id="id-d2f13b5c3f714d2e8e4f6ca404500900"
+    documentation="A storage location for software code, enabling version control, collaboration, and management of codebases."/>

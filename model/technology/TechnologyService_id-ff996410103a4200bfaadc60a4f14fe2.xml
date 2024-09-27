@@ -1,5 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Key value store"
+    name="Key value"
     id="id-ff996410103a4200bfaadc60a4f14fe2"
     documentation="A type of NoSQL database that stores data as a collection of key-value pairs, allowing for simple and fast data retrieval based on unique keys."/>

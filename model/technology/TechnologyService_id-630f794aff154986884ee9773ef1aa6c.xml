@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity Management"
+    id="id-630f794aff154986884ee9773ef1aa6c"
+    documentation="Services and systems that manage user identities and control access to resources based on authenticated identities."/>

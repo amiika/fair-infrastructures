@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata Crosswalks"
+    id="id-d813c9bd8df249a6890e6398678933a9"
+    documentation="Tools or processes that map metadata elements from one schema or standard to another, enabling interoperability and data integration across different systems."/>

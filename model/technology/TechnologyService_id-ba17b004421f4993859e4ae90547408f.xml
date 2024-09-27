@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FAIR publication system"
+    id="id-ba17b004421f4993859e4ae90547408f"
+    documentation="A system designed to publish data in accordance with FAIR principles, ensuring data is findable, accessible, interoperable, and reusable."/>

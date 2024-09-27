@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PID Resolver"
+    id="id-66e62ac5640b4a83ac4960407b554ca9"
+    documentation="A system or service that resolves Persistent Identifiers (PIDs) to their corresponding digital objects or data locations."/>

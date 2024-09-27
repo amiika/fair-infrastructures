@@ -1,5 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Document Store"
+    name="Document"
     id="id-bfc3c6e9fc554958a0c2e28e56c7198c"
     documentation="A type of database designed to store, retrieve, and manage document-oriented information, typically in formats like JSON or XML."/>

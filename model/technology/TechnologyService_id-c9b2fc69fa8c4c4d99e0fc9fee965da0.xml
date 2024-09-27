@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Workflow Repository"
+    id="id-c9b2fc69fa8c4c4d99e0fc9fee965da0"
+    documentation="A system that stores and manages workflows related to data processing, ensuring efficient and repeatable data operations."/>

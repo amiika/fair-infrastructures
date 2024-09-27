@@ -1,5 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Graph database"
+    name="Graph"
     id="id-109f53b9df184ca49019553bc74fb1ab"
     documentation="A type of database that uses graph structures with nodes, edges, and properties to store and represent data, enabling efficient querying of relationships."/>

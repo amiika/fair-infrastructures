@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Machine Actionable Interface"
+    id="id-1ac42d9c263e413788497e7b843dae57"
+    documentation="Interfaces that allow machines to interpret and act upon data or commands without human intervention, facilitating automation and integration."/>

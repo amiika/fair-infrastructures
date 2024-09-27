@@ -1,5 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Object storage"
+    name="Object "
     id="id-f6827c8b7a4c470b9fb420f877f0e676"
     documentation="A storage architecture that manages data as objects, each containing the data itself, metadata, and a unique identifier, suitable for large-scale unstructured data."/>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Columnar"
+    id="id-026c5eb4690d449ba672256fdf74fa48"
+    documentation="Database where data is stored in columns instead of rows to optimize certain types of queries, analytic workflows and data manipulation operations."/>

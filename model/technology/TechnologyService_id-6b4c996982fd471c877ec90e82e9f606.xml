@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Provenance"
+    id="id-6b4c996982fd471c877ec90e82e9f606"
+    documentation="The documentation of the origin, lineage, and history of data, ensuring its authenticity and traceability throughout its lifecycle."/>
