@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dimensional"
-    id="id-3bd2c7355e9c4cb99280434118f802c0"/>
+    id="id-3bd2c7355e9c4cb99280434118f802c0"
+    documentation="Relational database that uses a dimensional data model to organize data. This model uses fact tables and dimension tables using different schema models such as star model, snowflake, galaxy or data cube schema. A dimensional database is the optimal type of database for data warehousing."/>
