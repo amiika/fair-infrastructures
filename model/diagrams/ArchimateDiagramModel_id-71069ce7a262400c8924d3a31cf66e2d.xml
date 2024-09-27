@@ -112,7 +112,7 @@
               x="12"
               y="36"
               width="120"
-              height="55"/>
+              height="48"/>
           <archimateElement
               xsi:type="archimate:ApplicationProcess"
               href="ApplicationProcess_id-0ab8bb7bb4104a7bbb7f1d04f8b1f5be.xml#id-0ab8bb7bb4104a7bbb7f1d04f8b1f5be"/>
@@ -125,7 +125,7 @@
               x="144"
               y="36"
               width="120"
-              height="55"/>
+              height="48"/>
           <archimateElement
               xsi:type="archimate:ApplicationProcess"
               href="ApplicationProcess_id-915dd4979db44944a2bc0efcb46ee84e.xml#id-915dd4979db44944a2bc0efcb46ee84e"/>
@@ -375,7 +375,7 @@
             id="id-d96b334aafb54d0387d550107b9c297f"
             targetConnections="id-8fb40799c7e342a4b1608f42ea7c6cfb">
           <bounds
-              x="24"
+              x="12"
               y="84"
               width="120"
               height="37"/>
@@ -388,10 +388,10 @@
             id="id-a9efa31e581a4ac69ab5c8d620433d2f"
             targetConnections="id-d5cf9e25c6514412be214d5b2270bdc7">
           <bounds
-              x="24"
-              y="36"
+              x="12"
+              y="33"
               width="120"
-              height="37"/>
+              height="41"/>
           <archimateElement
               xsi:type="archimate:ApplicationProcess"
               href="ApplicationProcess_id-4a9a49b10a9a4d60ad1e12891c4ea13b.xml#id-4a9a49b10a9a4d60ad1e12891c4ea13b"/>
@@ -401,9 +401,9 @@
             id="id-0d549705d5c447a5836b2d4f0e5fbfc1"
             targetConnections="id-d449e032c8904052b19a53008a24b688">
           <bounds
-              x="156"
+              x="144"
               y="33"
-              width="120"
+              width="132"
               height="43"/>
           <archimateElement
               xsi:type="archimate:ApplicationProcess"
@@ -414,9 +414,9 @@
             id="id-822216b629fc4a26a07c79a08c762ca7"
             targetConnections="id-1a41891fe95a407097711dd60964769d">
           <bounds
-              x="156"
+              x="144"
               y="84"
-              width="120"
+              width="132"
               height="37"/>
           <archimateElement
               xsi:type="archimate:ApplicationProcess"
