@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Default View"
     id="id-71069ce7a262400c8924d3a31cf66e2d"
-    documentation="Ledger is an immutable record-keeping system that is permanent and immune to data corruption in contrast to traditional databases. Ledgers can be both centralized or decentralized.">
+    documentation="Reference Architecture for FAIR Data Infrastructures">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-99f8c5a2a9614d439e94193c98e2926b"

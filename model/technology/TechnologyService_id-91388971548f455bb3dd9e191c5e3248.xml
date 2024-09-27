@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ledger"
     id="id-91388971548f455bb3dd9e191c5e3248"
-    documentation="Immutable append only data structure that provides strong gaurantees about the lineage of data."/>
+    documentation="Immutable record-keeping system that is permanent and immune to data corruption and provides strong gaurantees about the lineage of data. Ledgers can be both centralized or decentralized."/>
