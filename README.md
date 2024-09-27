@@ -6,7 +6,7 @@ Archimate diagrams are automatically published as [Github pages]([amiika.github.
 
 # How to participate
 
-*Option 1:* Do whatever you want:
+**Option 1:** Do whatever you want:
    
   * Install [Archi](https://www.archimatetool.com) and [coArchi](https://www.archimatetool.com/plugins/).
   
@@ -16,7 +16,7 @@ Archimate diagrams are automatically published as [Github pages]([amiika.github.
   
   * Model and publish your stuff.
 
- *Option 2:* Post issue about anything:
+ **Option 2:** Post issue about anything:
 
   * Someone might do something
    
