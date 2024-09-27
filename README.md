@@ -2,7 +2,7 @@
 
 Open source reference architecture for planning FAIR Data Infrastructures and Services. Reference architecture is defined in Archimate notation using Archi and coArchi plugin.
 
-![alt text]([http://url/to/img.png](https://amiika.github.io/fair-infrastructures/id-3b7d80b7034c4c77bf160c6465a684d0/images/id-71069ce7a262400c8924d3a31cf66e2d.png))
+![alt text]([http://url/to/img.png](https://amiika.github.io/fair-infrastructures/id-3b7d80b7034c4c77bf160c6465a684d0/images/id-71069ce7a262400c8924d3a31cf66e2d.png)
 
 Archimate diagrams are automatically published as [Github pages]([amiika.github.io/fair-infrastructures/](https://amiika.github.io/fair-infrastructures).
 
