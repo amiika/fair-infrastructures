@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Spatiotemporal"
     id="id-402eceeac86c4876b7ba8514edd130dd"
-    documentation="Designed to efficiently store, query, and process spatial data (Time, Geo)."/>
+    documentation="Designed to efficiently store, query, and process spatial and temporal data, such as observations, time series, geoinformation, historical locations and events etc."/>

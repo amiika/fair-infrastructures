@@ -960,7 +960,7 @@
       <bounds
           x="432"
           y="35"
-          width="181"
+          width="193"
           height="494"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -996,7 +996,7 @@
         <bounds
             x="12"
             y="348"
-            width="156"
+            width="169"
             height="133"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
@@ -1005,7 +1005,7 @@
           <bounds
               x="12"
               y="60"
-              width="133"
+              width="145"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1018,7 +1018,7 @@
           <bounds
               x="12"
               y="24"
-              width="133"
+              width="145"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1031,7 +1031,7 @@
           <bounds
               x="12"
               y="96"
-              width="133"
+              width="145"
               height="24"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1083,7 +1083,7 @@
         <bounds
             x="12"
             y="24"
-            width="156"
+            width="169"
             height="169"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
@@ -1092,7 +1092,7 @@
           <bounds
               x="12"
               y="60"
-              width="128"
+              width="145"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1105,7 +1105,7 @@
           <bounds
               x="12"
               y="96"
-              width="133"
+              width="145"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1118,7 +1118,7 @@
           <bounds
               x="12"
               y="132"
-              width="133"
+              width="145"
               height="24"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1131,7 +1131,7 @@
           <bounds
               x="12"
               y="24"
-              width="133"
+              width="145"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1175,7 +1175,7 @@
         <bounds
             x="12"
             y="204"
-            width="156"
+            width="169"
             height="133"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
@@ -1184,7 +1184,7 @@
           <bounds
               x="12"
               y="24"
-              width="131"
+              width="145"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1197,7 +1197,7 @@
           <bounds
               x="12"
               y="60"
-              width="131"
+              width="145"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1210,7 +1210,7 @@
           <bounds
               x="12"
               y="96"
-              width="131"
+              width="145"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
