@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Fair Research Object"
+    name="Fair Digital Object"
     id="id-f32b97627eb445d08c375dd18905fc96"
-    documentation="A data object that conforms to FAIR principles, ensuring it is Findable, Accessible, Interoperable, and Reusable."/>
+    documentation="A FAIR digital object is a unit composed of data that is a sequence of bits, or a set of sequences of bits, each of the sequences being structured (typed) in a way that is interpretable by one or more computer systems, and having as essential elements an assigned globally uniqueandpersistent identifier (PID), a type definition for the object as a whole and a metadata description (which itself can be another FAIR digital object) of the properties of the object, making the whole findable, accessible, interoperable and reusable both by humans and computers for the reliable interpretation and processing of the data represented by the object (TSIG FDO WG)."/>
