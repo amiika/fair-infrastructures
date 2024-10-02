@@ -168,9 +168,9 @@
       textPosition="2"
       type="1">
     <bounds
-        x="372"
+        x="366"
         y="240"
-        width="72"
+        width="84"
         height="73"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"

@@ -958,9 +958,9 @@
             href="CompositionRelationship_id-e0a9b30ffd4f49fe8b26161bf3bd3ab6.xml#id-e0a9b30ffd4f49fe8b26161bf3bd3ab6"/>
       </sourceConnections>
       <bounds
-          x="444"
+          x="432"
           y="35"
-          width="169"
+          width="181"
           height="494"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -996,7 +996,7 @@
         <bounds
             x="12"
             y="348"
-            width="144"
+            width="156"
             height="133"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
@@ -1005,7 +1005,7 @@
           <bounds
               x="12"
               y="60"
-              width="121"
+              width="133"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1018,7 +1018,7 @@
           <bounds
               x="12"
               y="24"
-              width="121"
+              width="133"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1029,9 +1029,9 @@
             id="id-cea546c6e8b24fdab2a0885785bd1386"
             targetConnections="id-ba014827e83b4f5c84da26d1530c1834">
           <bounds
-              x="13"
+              x="12"
               y="96"
-              width="120"
+              width="133"
               height="24"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1083,7 +1083,7 @@
         <bounds
             x="12"
             y="24"
-            width="144"
+            width="156"
             height="169"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
@@ -1092,7 +1092,7 @@
           <bounds
               x="12"
               y="60"
-              width="122"
+              width="128"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1105,7 +1105,7 @@
           <bounds
               x="12"
               y="96"
-              width="121"
+              width="133"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1118,7 +1118,7 @@
           <bounds
               x="12"
               y="132"
-              width="121"
+              width="133"
               height="24"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1129,9 +1129,9 @@
             id="id-287aa2a97f79489abbb01d102f4e1c4d"
             targetConnections="id-1ba2edce731a4fe8a1db16c253e7acca">
           <bounds
-              x="13"
+              x="12"
               y="24"
-              width="120"
+              width="133"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1173,9 +1173,9 @@
               href="CompositionRelationship_id-814d739b9f44454d8007a7367539b01d.xml#id-814d739b9f44454d8007a7367539b01d"/>
         </sourceConnections>
         <bounds
-            x="11"
+            x="12"
             y="204"
-            width="145"
+            width="156"
             height="133"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
@@ -1184,7 +1184,7 @@
           <bounds
               x="12"
               y="24"
-              width="120"
+              width="131"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1195,9 +1195,9 @@
             id="id-d966c366db65420dbcd383e9c955792c"
             targetConnections="id-2ae2f31bdbeb4eafab38e9a0536bb8b8">
           <bounds
-              x="11"
+              x="12"
               y="60"
-              width="121"
+              width="131"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
@@ -1208,9 +1208,9 @@
             id="id-b340893eb1444b219d7329dbf1c946fa"
             targetConnections="id-4dbcd4dac51e49e894dd373e8fe4bbe1">
           <bounds
-              x="11"
+              x="12"
               y="96"
-              width="121"
+              width="131"
               height="25"/>
           <archimateElement
               xsi:type="archimate:TechnologyService"
