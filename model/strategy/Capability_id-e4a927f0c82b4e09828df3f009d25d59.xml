@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Persistent Identifiers"
+    id="id-e4a927f0c82b4e09828df3f009d25d59"
+    documentation="The ability to assign and manage unique, permanent identifiers (e.g., DOI, ORCID) to datasets, ensuring long-term findability and reference. The use of persistent identifiers enhances data management and enables, for example, the formation of knowledge graphs and supports the repeatability and automation of research."/>

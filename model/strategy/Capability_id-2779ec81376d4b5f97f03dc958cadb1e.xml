@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Processing"
+    id="id-2779ec81376d4b5f97f03dc958cadb1e"
+    documentation="The capability to design, optimize, and run data processing workflows that clean, transform, and analyze raw data for domain-spesific research purposes. "/>

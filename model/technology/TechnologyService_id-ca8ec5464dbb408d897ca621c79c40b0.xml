@@ -1,5 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ontologies"
+    name="Ontology Development"
     id="id-ca8ec5464dbb408d897ca621c79c40b0"
     documentation="Formal representations of knowledge as a set of concepts and the relationships between them, used to model domain knowledge for data integration and semantic interoperability."/>

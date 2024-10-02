@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reproducible Research (copy)"
+    id="id-5f607401a8d94a2c8c34b03494e2b8c0"
+    documentation="The ability to design research workflows and processes that allow for data and research findings to be consistently reproduced by others, promoting transparency."/>

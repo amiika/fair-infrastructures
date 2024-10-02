@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Lineage"
+    id="id-b7af6d7507e54cd38b388608b154b89b"
+    documentation="Experise in defining data workflows that preserves the history and lineage of the data to maintain accountability and transparency in data use."/>

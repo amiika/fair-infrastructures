@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Access Management"
+    id="id-20449b93497848efaf243c6046c8c870"
+    documentation="The ability to manage user access and permissions across datasets and systems, ensuring that only authorized users can interact with sensitive data.&#xA;"/>
