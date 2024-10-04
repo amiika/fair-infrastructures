@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Data</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Data</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-DiagramModelGroup"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-DiagramModelGroup" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Different types of data sources on different maturity level</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/id-aa513e51053545c0b75876b8acc50b2b.html" target="element"> Raw Data Source </a> </td>
+											    <td> <a href="../elements/id-aa513e51053545c0b75876b8acc50b2b.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-c9d36edb264f49e385b3c8e552b63736.html" target="element"> Data Streams </a> </td>
+													    <td> <a href="../elements/id-c9d36edb264f49e385b3c8e552b63736.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-ae6d47fdffbc4e95afc0f83b15b94244.html" target="element"> Dumb Data </a> </td>
+													    <td> <a href="../elements/id-ae6d47fdffbc4e95afc0f83b15b94244.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-4bbc3513e1b74bbea0a883ddde32332b.html" target="element"> Structured Data Dump </a> </td>
+													    <td> <a href="../elements/id-4bbc3513e1b74bbea0a883ddde32332b.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-10ca9fa9cd6e4b1abc7f0fdb40d07e80.html" target="element"> Ingested Data Source </a> </td>
+											    <td> <a href="../elements/id-10ca9fa9cd6e4b1abc7f0fdb40d07e80.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-1476dd75986748bab22c6afdee244c25.html" target="element"> Dumb Data Lake </a> </td>
+													    <td> <a href="../elements/id-1476dd75986748bab22c6afdee244c25.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-09ef67576bec497e902077429930704b.html" target="element"> Querable Structured Data </a> </td>
+													    <td> <a href="../elements/id-09ef67576bec497e902077429930704b.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-db86e452bf434779b1a1d4605322cbe3.html" target="element"> Querable Data Stream </a> </td>
+													    <td> <a href="../elements/id-db86e452bf434779b1a1d4605322cbe3.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-146e93c311164f37b9770f4f656ce6ed.html" target="element"> Clean Data Source </a> </td>
+											    <td> <a href="../elements/id-146e93c311164f37b9770f4f656ce6ed.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-75da87ec51004d0c8ff803991521ba5a.html" target="element"> Cleaned Data </a> </td>
+													    <td> <a href="../elements/id-75da87ec51004d0c8ff803991521ba5a.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-53926347263c49e2871029dc426b9616.html" target="element"> Master Data </a> </td>
+													    <td> <a href="../elements/id-53926347263c49e2871029dc426b9616.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-026049dfa8ad4d648c98a3ddeb62f8b2.html" target="element"> Harmonized Data </a> </td>
+													    <td> <a href="../elements/id-026049dfa8ad4d648c98a3ddeb62f8b2.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-563b2110ee0141a193d1bb867a2d029e.html" target="element"> Fair Data Source </a> </td>
+											    <td> <a href="../elements/id-563b2110ee0141a193d1bb867a2d029e.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-8614077189064d3288d7ad1c16638a44.html" target="element"> Fair Research Dataset </a> </td>
+													    <td> <a href="../elements/id-8614077189064d3288d7ad1c16638a44.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-f32b97627eb445d08c375dd18905fc96.html" target="element"> Fair Digital Object </a> </td>
+													    <td> <a href="../elements/id-f32b97627eb445d08c375dd18905fc96.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-c939c8998d2c4b538a3bfad7feadb7ba.html" target="element"> Fair Data Workflow </a> </td>
+													    <td> <a href="../elements/id-c939c8998d2c4b538a3bfad7feadb7ba.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-d0911f734bb64711b84df76baad8b070.html" target="element"> Smart Data Source </a> </td>
+											    <td> <a href="../elements/id-d0911f734bb64711b84df76baad8b070.html" target="element" class="i18n-elementtype-ApplicationService">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-9317da0b32054394b0680f2c418ebedc.html" target="element"> Data Product </a> </td>
+													    <td> <a href="../elements/id-9317da0b32054394b0680f2c418ebedc.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-2af4bb4d64fd4f41a647f5fe91530374.html" target="element"> Data Graph </a> </td>
+													    <td> <a href="../elements/id-2af4bb4d64fd4f41a647f5fe91530374.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-42f04fc92848404ba2f3e3c851eec223.html" target="element"> Digital Twin </a> </td>
+													    <td> <a href="../elements/id-42f04fc92848404ba2f3e3c851eec223.html" target="element" class="i18n-elementtype-DataObject">
+													    </a> </td>
+													</tr>
+
+											
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/id-9bb30a7f1dc64138a41a9d9f60f2e893.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-9bb30a7f1dc64138a41a9d9f60f2e893.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-aa513e51053545c0b75876b8acc50b2b.html" target="element"> Raw Data Source </a> </td>
+																		<td> <a href="../elements/id-ae6d47fdffbc4e95afc0f83b15b94244.html" target="element"> Dumb Data </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-9c88c9d47268438b86ff0243d00c88d8.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-9c88c9d47268438b86ff0243d00c88d8.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-aa513e51053545c0b75876b8acc50b2b.html" target="element"> Raw Data Source </a> </td>
+																		<td> <a href="../elements/id-a34b7352238e433ebfd7d141d2ed3e35.html" target="element"> Ingestion Pipeline </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-5a55cf1c7e1544609002226d65b3613f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-5a55cf1c7e1544609002226d65b3613f.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-aa513e51053545c0b75876b8acc50b2b.html" target="element"> Raw Data Source </a> </td>
+																		<td> <a href="../elements/id-4bbc3513e1b74bbea0a883ddde32332b.html" target="element"> Structured Data Dump </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-26dd73d244d741a0959ef9654834a6f0.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-26dd73d244d741a0959ef9654834a6f0.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-aa513e51053545c0b75876b8acc50b2b.html" target="element"> Raw Data Source </a> </td>
+																		<td> <a href="../elements/id-c9d36edb264f49e385b3c8e552b63736.html" target="element"> Data Streams </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-b2ff2045f2144ca2ba6e0a00b40667da.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-b2ff2045f2144ca2ba6e0a00b40667da.html" target="element" class="i18n-elementtype-FlowRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-aa513e51053545c0b75876b8acc50b2b.html" target="element"> Raw Data Source </a> </td>
+																		<td> <a href="../elements/id-10ca9fa9cd6e4b1abc7f0fdb40d07e80.html" target="element"> Ingested Data Source </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-27b1cd95c87447ee9069aeb4291b7246.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-27b1cd95c87447ee9069aeb4291b7246.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-10ca9fa9cd6e4b1abc7f0fdb40d07e80.html" target="element"> Ingested Data Source </a> </td>
+																		<td> <a href="../elements/id-c9a11b59f8cc49ae8fc793204a04aece.html" target="element"> Data Harmonization Pipeline </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-c7140991e4454b59bf779604c5740872.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-c7140991e4454b59bf779604c5740872.html" target="element" class="i18n-elementtype-FlowRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-10ca9fa9cd6e4b1abc7f0fdb40d07e80.html" target="element"> Ingested Data Source </a> </td>
+																		<td> <a href="../elements/id-146e93c311164f37b9770f4f656ce6ed.html" target="element"> Clean Data Source </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-ff317d349d5e483693cd0f02b6a107ce.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-ff317d349d5e483693cd0f02b6a107ce.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-10ca9fa9cd6e4b1abc7f0fdb40d07e80.html" target="element"> Ingested Data Source </a> </td>
+																		<td> <a href="../elements/id-09ef67576bec497e902077429930704b.html" target="element"> Querable Structured Data </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-0d28981eedb44161a3f2c2dba036876c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-0d28981eedb44161a3f2c2dba036876c.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-10ca9fa9cd6e4b1abc7f0fdb40d07e80.html" target="element"> Ingested Data Source </a> </td>
+																		<td> <a href="../elements/id-1476dd75986748bab22c6afdee244c25.html" target="element"> Dumb Data Lake </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-eb0bc97cf3454ec6a95700328649afb5.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-eb0bc97cf3454ec6a95700328649afb5.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-10ca9fa9cd6e4b1abc7f0fdb40d07e80.html" target="element"> Ingested Data Source </a> </td>
+																		<td> <a href="../elements/id-db86e452bf434779b1a1d4605322cbe3.html" target="element"> Querable Data Stream </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-7cf1e9c25a3d4a998394bb559f8e9c7f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-7cf1e9c25a3d4a998394bb559f8e9c7f.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-146e93c311164f37b9770f4f656ce6ed.html" target="element"> Clean Data Source </a> </td>
+																		<td> <a href="../elements/id-53926347263c49e2871029dc426b9616.html" target="element"> Master Data </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-45f3f82b22a04e4aafc83d0c8ce104fe.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-45f3f82b22a04e4aafc83d0c8ce104fe.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-146e93c311164f37b9770f4f656ce6ed.html" target="element"> Clean Data Source </a> </td>
+																		<td> <a href="../elements/id-026049dfa8ad4d648c98a3ddeb62f8b2.html" target="element"> Harmonized Data </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-af1e27ace51149cf8066e7bedb94885c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-af1e27ace51149cf8066e7bedb94885c.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-146e93c311164f37b9770f4f656ce6ed.html" target="element"> Clean Data Source </a> </td>
+																		<td> <a href="../elements/id-60c63384392e4b34b32e80255882dff9.html" target="element"> Data Processing Pipeline </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-39e251e4aaad42d1984c7504f8545bff.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-39e251e4aaad42d1984c7504f8545bff.html" target="element" class="i18n-elementtype-FlowRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-146e93c311164f37b9770f4f656ce6ed.html" target="element"> Clean Data Source </a> </td>
+																		<td> <a href="../elements/id-d0911f734bb64711b84df76baad8b070.html" target="element"> Smart Data Source </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-95540357833b47afa8ae3a5e211be615.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-95540357833b47afa8ae3a5e211be615.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-146e93c311164f37b9770f4f656ce6ed.html" target="element"> Clean Data Source </a> </td>
+																		<td> <a href="../elements/id-75da87ec51004d0c8ff803991521ba5a.html" target="element"> Cleaned Data </a> </td>
+																	</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-39665e3a84524b8ba7b3b1aec84c79dd.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-39665e3a84524b8ba7b3b1aec84c79dd.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-563b2110ee0141a193d1bb867a2d029e.html" target="element"> Fair Data Source </a> </td>
+																		<td> <a href="../elements/id-c939c8998d2c4b538a3bfad7feadb7ba.html" target="element"> Fair Data Workflow </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-26a8c47f2de54f73a3f32b2c3ed4f873.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-26a8c47f2de54f73a3f32b2c3ed4f873.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-563b2110ee0141a193d1bb867a2d029e.html" target="element"> Fair Data Source </a> </td>
+																		<td> <a href="../elements/id-8614077189064d3288d7ad1c16638a44.html" target="element"> Fair Research Dataset </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-deb250194e924fcdab7a9d4d83e05113.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-deb250194e924fcdab7a9d4d83e05113.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-563b2110ee0141a193d1bb867a2d029e.html" target="element"> Fair Data Source </a> </td>
+																		<td> <a href="../elements/id-6154fc708d304c598d2ffa53a05c04b8.html" target="element"> Fair Publication Pipeline </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-68066b83f7fa46f4b9f542822f054e77.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-68066b83f7fa46f4b9f542822f054e77.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-563b2110ee0141a193d1bb867a2d029e.html" target="element"> Fair Data Source </a> </td>
+																		<td> <a href="../elements/id-f32b97627eb445d08c375dd18905fc96.html" target="element"> Fair Digital Object </a> </td>
+																	</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-423585fb4c304d0da59237db6ffe3cdd.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-423585fb4c304d0da59237db6ffe3cdd.html" target="element" class="i18n-elementtype-SpecializationRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-8614077189064d3288d7ad1c16638a44.html" target="element"> Fair Research Dataset </a> </td>
+																				<td> <a href="../elements/id-f32b97627eb445d08c375dd18905fc96.html" target="element"> Fair Digital Object </a> </td>
+																			</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-a56e0bbbe80d43819f81730eeb7eef00.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-a56e0bbbe80d43819f81730eeb7eef00.html" target="element" class="i18n-elementtype-AssociationRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-c939c8998d2c4b538a3bfad7feadb7ba.html" target="element"> Fair Data Workflow </a> </td>
+																				<td> <a href="../elements/id-8614077189064d3288d7ad1c16638a44.html" target="element"> Fair Research Dataset </a> </td>
+																			</tr>
+																			<tr>
+																				<td> <a href="../elements/id-f5f219e648784da5aba428e5a2e2728d.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-f5f219e648784da5aba428e5a2e2728d.html" target="element" class="i18n-elementtype-SpecializationRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-c939c8998d2c4b538a3bfad7feadb7ba.html" target="element"> Fair Data Workflow </a> </td>
+																				<td> <a href="../elements/id-f32b97627eb445d08c375dd18905fc96.html" target="element"> Fair Digital Object </a> </td>
+																			</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-f4273ab816e143f891d41995148bf28f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-f4273ab816e143f891d41995148bf28f.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-d0911f734bb64711b84df76baad8b070.html" target="element"> Smart Data Source </a> </td>
+																		<td> <a href="../elements/id-9317da0b32054394b0680f2c418ebedc.html" target="element"> Data Product </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-48afd84c0f794c43bb80501a10f1917e.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-48afd84c0f794c43bb80501a10f1917e.html" target="element" class="i18n-elementtype-FlowRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-d0911f734bb64711b84df76baad8b070.html" target="element"> Smart Data Source </a> </td>
+																		<td> <a href="../elements/id-563b2110ee0141a193d1bb867a2d029e.html" target="element"> Fair Data Source </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-4ea890604e014ee389152050a7ceb8cd.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-4ea890604e014ee389152050a7ceb8cd.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-d0911f734bb64711b84df76baad8b070.html" target="element"> Smart Data Source </a> </td>
+																		<td> <a href="../elements/id-2af4bb4d64fd4f41a647f5fe91530374.html" target="element"> Data Graph </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-3b415aea6924406b988f78b81345f8cd.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-3b415aea6924406b988f78b81345f8cd.html" target="element" class="i18n-elementtype-AccessRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-d0911f734bb64711b84df76baad8b070.html" target="element"> Smart Data Source </a> </td>
+																		<td> <a href="../elements/id-42f04fc92848404ba2f3e3c851eec223.html" target="element"> Digital Twin </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-ee49a7c2893143669b4b284f69a3f171.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-ee49a7c2893143669b4b284f69a3f171.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-d0911f734bb64711b84df76baad8b070.html" target="element"> Smart Data Source </a> </td>
+																		<td> <a href="../elements/id-60c63384392e4b34b32e80255882dff9.html" target="element"> Data Processing Pipeline </a> </td>
+																	</tr>
+
+											
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
