@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Persistent identifiers"
     id="id-4a9a49b10a9a4d60ad1e12891c4ea13b"
-    documentation="Unique identifiers assigned to data or digital objects to ensure their long-term accessibility and referenceability."/>
+    documentation="Unique and persistent identifiers assigned to data or digital objects to ensure their long-term accessibility and referenceability, such as URN, DOI and ORCID"/>
