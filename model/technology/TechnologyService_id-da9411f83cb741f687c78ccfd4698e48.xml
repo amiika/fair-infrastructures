@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Access Management"
     id="id-da9411f83cb741f687c78ccfd4698e48"
-    documentation="Services and tools that manage user access to systems and data, ensuring proper authentication and authorization."/>
+    documentation="Services and tools that manage user access to systems and data, ensuring proper authentication and authorization. Access can be managed on service, API or dataset level using Resource Entitlement Management Systems."/>

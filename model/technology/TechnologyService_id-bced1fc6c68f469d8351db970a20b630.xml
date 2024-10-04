@@ -1,5 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Provenance Services"
+    name="Provenance Systems"
     id="id-bced1fc6c68f469d8351db970a20b630"
     documentation="Systems that track the origins, movement, and transformations of data. These include data lineage systems as well as the provenance of code and the deployment and usage of the systems used to manage the data."/>
