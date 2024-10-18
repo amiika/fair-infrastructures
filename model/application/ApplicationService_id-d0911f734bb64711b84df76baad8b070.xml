@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Smart Data Source"
     id="id-d0911f734bb64711b84df76baad8b070"
-    documentation="A data source that has been enriched with additional context, metadata, or intelligence to enable more advanced analysis or decision-making."/>
+    documentation="A data source that has been enriched with additional context, metadata and documentation to enable efficient data reuse and more advanced analysis or decision-making. This is typically domain spesific or fit-for-purpose enterpise level data that is well documented and ready to be used within a bounded context using the documentation and tools provided with the data."/>
