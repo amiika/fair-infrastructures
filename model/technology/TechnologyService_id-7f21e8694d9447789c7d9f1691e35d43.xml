@@ -1,5 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Models &amp; Schema Repositories"
+    name="Semantic Artefact Repositories"
     id="id-7f21e8694d9447789c7d9f1691e35d43"
-    documentation="Structured representations of data that define the organization, relationships, and constraints of data elements within a system or application."/>
+    documentation="Semantic artifact repositories enable both humans and machines to access, understand, and use this structured knowledge. Semantic artifacts are formal, machine readable and actionable representations of knowledge, used to capture and structure information in a domain. Examples include ontologies, terminologies, taxonomies, thesauri, vocabularies, metadata schemas, data models and data mappings."/>
