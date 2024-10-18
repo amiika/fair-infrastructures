@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>FAIR Data Lifecycle</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>FAIR Data Lifecycle</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/id-b75dc7f3e5424688aa7cb4a22eb54f3f.png" alt="FAIR Data Lifecycle" usemap="#id-b75dc7f3e5424688aa7cb4a22eb54f3fmap"/>
+			   <map name="id-b75dc7f3e5424688aa7cb4a22eb54f3fmap">
+				  		<area shape="rect" coords="490,569,610,624" href="../elements/id-c45faf95dc9142ac9d8b429fe3393116.html"  target="element">
+				  		<area shape="rect" coords="192,298,312,353" href="../elements/id-77a46bd4b2b84f639fb085c3df4d63c4.html"  target="element">
+				  		<area shape="rect" coords="490,125,610,180" href="../elements/id-a20c7c7d11684fe29996e6daa41bdada.html"  target="element">
+				  		<area shape="rect" coords="358,298,478,353" href="../elements/id-951cb0a56d5e470aa0a036e260976291.html"  target="element">
+				  		<area shape="rect" coords="358,394,478,449" href="../elements/id-abe24cf55eb84fad89a42d741c539391.html"  target="element">
+				  		<area shape="rect" coords="490,478,610,533" href="../elements/id-0cedc438075c49f1ae5cdb4771d5e40b.html"  target="element">
+				  		<area shape="rect" coords="621,394,741,449" href="../elements/id-8af1049318c844208418f585711460bd.html"  target="element">
+				  		<area shape="rect" coords="621,298,741,353" href="../elements/id-3e0d6db1da5e44a59fd0b5bcb3acae2d.html"  target="element">
+				  		<area shape="rect" coords="490,214,610,269" href="../elements/id-ee1741e5c1b740b6bedd87d79afdad59.html"  target="element">
+				  				<area shape="rect" coords="154,394,280,449" href="../elements/id-d233737f466f45519da3107b45acfd3f.html"  target="element">
+				  				<area shape="rect" coords="46,406,124,461" href="../elements/id-591af9fc88994522b8974450cb138bdc.html"  target="element">
+				  				<area shape="rect" coords="508,334,592,407" href="../elements/id-6cc4ef14112740aca52a39f64454a867.html"  target="element">
+				  				<area shape="rect" coords="826,394,959,449" href="../elements/id-039b2b7a1d91446f9a68e93031ae1e70.html"  target="element">
+				  				<area shape="rect" coords="790,298,923,353" href="../elements/id-8c56071da1414281a3487296162d0261.html"  target="element">
+				  				<area shape="rect" coords="562,58,635,113" href="../elements/id-c642d92bc6ed4c839a8555d780f5cb19.html"  target="element">
+				  				<area shape="rect" coords="970,286,1042,341" href="../elements/id-046412b68241467e841cf54bd140da82.html"  target="element">
+				  				<area shape="rect" coords="82,298,143,353" href="../elements/id-b44cd6ed55a648d49df02398675e0a02.html"  target="element">
+				  				<area shape="rect" coords="490,658,610,713" href="../elements/id-c96086e82a3c4a28b78d3d565c52c60e.html"  target="element">
+				  				<area shape="rect" coords="430,58,550,113" href="../elements/id-98fa77eb8210446aadcb2a72b3575fdb.html"  target="element">
+				  				<area shape="rect" coords="982,394,1054,449" href="../elements/id-1d90bb64fa264c84b1caf13713b9ec24.html"  target="element">
+
+				  		<area shape="rect" coords="10,10,1127,731" href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html"  target="element">
+
+			   </map>
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html" target="element"> FAIR Data Lifecycle </a> </td>
+											    <td> <a href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html" target="element" class="i18n-elementtype-BusinessCollaboration">
+											    </a> </td>
+											</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-1d90bb64fa264c84b1caf13713b9ec24.html" target="element"> Research Support </a> </td>
+													    <td> <a href="../elements/id-1d90bb64fa264c84b1caf13713b9ec24.html" target="element" class="i18n-elementtype-BusinessActor">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-98fa77eb8210446aadcb2a72b3575fdb.html" target="element"> Funder </a> </td>
+													    <td> <a href="../elements/id-98fa77eb8210446aadcb2a72b3575fdb.html" target="element" class="i18n-elementtype-BusinessActor">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-c96086e82a3c4a28b78d3d565c52c60e.html" target="element"> Technology support </a> </td>
+													    <td> <a href="../elements/id-c96086e82a3c4a28b78d3d565c52c60e.html" target="element" class="i18n-elementtype-BusinessActor">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-b44cd6ed55a648d49df02398675e0a02.html" target="element"> Curator </a> </td>
+													    <td> <a href="../elements/id-b44cd6ed55a648d49df02398675e0a02.html" target="element" class="i18n-elementtype-BusinessActor">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-046412b68241467e841cf54bd140da82.html" target="element"> Project support </a> </td>
+													    <td> <a href="../elements/id-046412b68241467e841cf54bd140da82.html" target="element" class="i18n-elementtype-BusinessActor">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-c642d92bc6ed4c839a8555d780f5cb19.html" target="element"> Service Owner </a> </td>
+													    <td> <a href="../elements/id-c642d92bc6ed4c839a8555d780f5cb19.html" target="element" class="i18n-elementtype-BusinessActor">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-8c56071da1414281a3487296162d0261.html" target="element"> Project consulting </a> </td>
+													    <td> <a href="../elements/id-8c56071da1414281a3487296162d0261.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-039b2b7a1d91446f9a68e93031ae1e70.html" target="element"> FAIR Research Support </a> </td>
+													    <td> <a href="../elements/id-039b2b7a1d91446f9a68e93031ae1e70.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-6cc4ef14112740aca52a39f64454a867.html" target="element"> Researcher </a> </td>
+													    <td> <a href="../elements/id-6cc4ef14112740aca52a39f64454a867.html" target="element" class="i18n-elementtype-BusinessActor">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-591af9fc88994522b8974450cb138bdc.html" target="element"> Publication Support </a> </td>
+													    <td> <a href="../elements/id-591af9fc88994522b8974450cb138bdc.html" target="element" class="i18n-elementtype-BusinessActor">
+													    </a> </td>
+													</tr>
+
+													<tr>
+													    <td> <a href="../elements/id-d233737f466f45519da3107b45acfd3f.html" target="element"> FAIR Publication Support </a> </td>
+													    <td> <a href="../elements/id-d233737f466f45519da3107b45acfd3f.html" target="element" class="i18n-elementtype-BusinessFunction">
+													    </a> </td>
+													</tr>
+
+											
+											<tr>
+											    <td> <a href="../elements/id-ee1741e5c1b740b6bedd87d79afdad59.html" target="element"> Project Proposal </a> </td>
+											    <td> <a href="../elements/id-ee1741e5c1b740b6bedd87d79afdad59.html" target="element" class="i18n-elementtype-BusinessProcess">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-3e0d6db1da5e44a59fd0b5bcb3acae2d.html" target="element"> Data Management Plan </a> </td>
+											    <td> <a href="../elements/id-3e0d6db1da5e44a59fd0b5bcb3acae2d.html" target="element" class="i18n-elementtype-BusinessProcess">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-8af1049318c844208418f585711460bd.html" target="element"> Data Production </a> </td>
+											    <td> <a href="../elements/id-8af1049318c844208418f585711460bd.html" target="element" class="i18n-elementtype-BusinessProcess">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-0cedc438075c49f1ae5cdb4771d5e40b.html" target="element"> Data Processing </a> </td>
+											    <td> <a href="../elements/id-0cedc438075c49f1ae5cdb4771d5e40b.html" target="element" class="i18n-elementtype-BusinessProcess">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-abe24cf55eb84fad89a42d741c539391.html" target="element"> Data Publication </a> </td>
+											    <td> <a href="../elements/id-abe24cf55eb84fad89a42d741c539391.html" target="element" class="i18n-elementtype-BusinessProcess">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-951cb0a56d5e470aa0a036e260976291.html" target="element"> Preserve, Discard, Reuse </a> </td>
+											    <td> <a href="../elements/id-951cb0a56d5e470aa0a036e260976291.html" target="element" class="i18n-elementtype-BusinessProcess">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-a20c7c7d11684fe29996e6daa41bdada.html" target="element"> Infrastructure Governance </a> </td>
+											    <td> <a href="../elements/id-a20c7c7d11684fe29996e6daa41bdada.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-77a46bd4b2b84f639fb085c3df4d63c4.html" target="element"> Preservation Support </a> </td>
+											    <td> <a href="../elements/id-77a46bd4b2b84f639fb085c3df4d63c4.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-c45faf95dc9142ac9d8b429fe3393116.html" target="element"> FAIR Workflow Support </a> </td>
+											    <td> <a href="../elements/id-c45faf95dc9142ac9d8b429fe3393116.html" target="element" class="i18n-elementtype-BusinessFunction">
+											    </a> </td>
+											</tr>
+
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+																	<tr>
+																		<td> <a href="../elements/id-003759690a0c425893b42d7bcfda0649.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-003759690a0c425893b42d7bcfda0649.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html" target="element"> FAIR Data Lifecycle </a> </td>
+																		<td> <a href="../elements/id-1d90bb64fa264c84b1caf13713b9ec24.html" target="element"> Research Support </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-6ae0833d257c49e78b89488693e46ee9.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-6ae0833d257c49e78b89488693e46ee9.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html" target="element"> FAIR Data Lifecycle </a> </td>
+																		<td> <a href="../elements/id-98fa77eb8210446aadcb2a72b3575fdb.html" target="element"> Funder </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-81d2a8c9b22b49cebb5f6c886a9fed50.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-81d2a8c9b22b49cebb5f6c886a9fed50.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html" target="element"> FAIR Data Lifecycle </a> </td>
+																		<td> <a href="../elements/id-c96086e82a3c4a28b78d3d565c52c60e.html" target="element"> Technology support </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-badd29111e5e4c9cb6585c21a8d17c26.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-badd29111e5e4c9cb6585c21a8d17c26.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html" target="element"> FAIR Data Lifecycle </a> </td>
+																		<td> <a href="../elements/id-b44cd6ed55a648d49df02398675e0a02.html" target="element"> Curator </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-d339b678e26a44d1944d63435a4e9f98.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-d339b678e26a44d1944d63435a4e9f98.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html" target="element"> FAIR Data Lifecycle </a> </td>
+																		<td> <a href="../elements/id-046412b68241467e841cf54bd140da82.html" target="element"> Project support </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-93e24a5e67df47f1a7ee45ee8c42936c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-93e24a5e67df47f1a7ee45ee8c42936c.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html" target="element"> FAIR Data Lifecycle </a> </td>
+																		<td> <a href="../elements/id-591af9fc88994522b8974450cb138bdc.html" target="element"> Publication Support </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-0321f015758b4474ad90a79dbfc29aa9.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-0321f015758b4474ad90a79dbfc29aa9.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html" target="element"> FAIR Data Lifecycle </a> </td>
+																		<td> <a href="../elements/id-c642d92bc6ed4c839a8555d780f5cb19.html" target="element"> Service Owner </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-4317e52f7b5443a2845bcc035d5dac42.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-4317e52f7b5443a2845bcc035d5dac42.html" target="element" class="i18n-elementtype-AssignmentRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html" target="element"> FAIR Data Lifecycle </a> </td>
+																		<td> <a href="../elements/id-8c56071da1414281a3487296162d0261.html" target="element"> Project consulting </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-f2c91addc01a48d5b0b773b793d1172c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-f2c91addc01a48d5b0b773b793d1172c.html" target="element" class="i18n-elementtype-AssignmentRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html" target="element"> FAIR Data Lifecycle </a> </td>
+																		<td> <a href="../elements/id-039b2b7a1d91446f9a68e93031ae1e70.html" target="element"> FAIR Research Support </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-078ef2859c9f4071a2249677d43e42c5.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-078ef2859c9f4071a2249677d43e42c5.html" target="element" class="i18n-elementtype-AggregationRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html" target="element"> FAIR Data Lifecycle </a> </td>
+																		<td> <a href="../elements/id-6cc4ef14112740aca52a39f64454a867.html" target="element"> Researcher </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-0c6d1d9438c34969ac78c77908f0d59c.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-0c6d1d9438c34969ac78c77908f0d59c.html" target="element" class="i18n-elementtype-AssignmentRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html" target="element"> FAIR Data Lifecycle </a> </td>
+																		<td> <a href="../elements/id-d233737f466f45519da3107b45acfd3f.html" target="element"> FAIR Publication Support </a> </td>
+																	</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-130eb18b9a1c46c4a8fe4772aeda89ed.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-130eb18b9a1c46c4a8fe4772aeda89ed.html" target="element" class="i18n-elementtype-ServingRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-8c56071da1414281a3487296162d0261.html" target="element"> Project consulting </a> </td>
+																				<td> <a href="../elements/id-3e0d6db1da5e44a59fd0b5bcb3acae2d.html" target="element"> Data Management Plan </a> </td>
+																			</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-f2a772d0bcf24398a0e615fec8e3fc8d.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-f2a772d0bcf24398a0e615fec8e3fc8d.html" target="element" class="i18n-elementtype-ServingRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-039b2b7a1d91446f9a68e93031ae1e70.html" target="element"> FAIR Research Support </a> </td>
+																				<td> <a href="../elements/id-8af1049318c844208418f585711460bd.html" target="element"> Data Production </a> </td>
+																			</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-2ed65affe4c0468e9e0fc0fb21b0a817.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-2ed65affe4c0468e9e0fc0fb21b0a817.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-6cc4ef14112740aca52a39f64454a867.html" target="element"> Researcher </a> </td>
+																				<td> <a href="../elements/id-a0af72bbe7fe43e69ec45f25b678ffb6.html" target="element"> FAIR Data Lifecycle </a> </td>
+																			</tr>
+
+																			<tr>
+																				<td> <a href="../elements/id-eb03edaae4cf47c0b80411b1fd807fea.html" target="element">  </a> </td>
+																				<td> <a href="../elements/id-eb03edaae4cf47c0b80411b1fd807fea.html" target="element" class="i18n-elementtype-ServingRelationship">
+																				</a> </td>
+																				<td> <a href="../elements/id-d233737f466f45519da3107b45acfd3f.html" target="element"> FAIR Publication Support </a> </td>
+																				<td> <a href="../elements/id-abe24cf55eb84fad89a42d741c539391.html" target="element"> Data Publication </a> </td>
+																			</tr>
+
+											
+																	<tr>
+																		<td> <a href="../elements/id-790ec33d90b44607a21b8fce74df17f1.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-790ec33d90b44607a21b8fce74df17f1.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ee1741e5c1b740b6bedd87d79afdad59.html" target="element"> Project Proposal </a> </td>
+																		<td> <a href="../elements/id-3e0d6db1da5e44a59fd0b5bcb3acae2d.html" target="element"> Data Management Plan </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-e73d74c4641347648457ed234df7a791.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e73d74c4641347648457ed234df7a791.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-ee1741e5c1b740b6bedd87d79afdad59.html" target="element"> Project Proposal </a> </td>
+																		<td> <a href="../elements/id-951cb0a56d5e470aa0a036e260976291.html" target="element"> Preserve, Discard, Reuse </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-6cbb45cffa824b85b455b15c17e9265f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-6cbb45cffa824b85b455b15c17e9265f.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-3e0d6db1da5e44a59fd0b5bcb3acae2d.html" target="element"> Data Management Plan </a> </td>
+																		<td> <a href="../elements/id-8af1049318c844208418f585711460bd.html" target="element"> Data Production </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-2224ac9ce0cf475dbb05f534912560a1.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-2224ac9ce0cf475dbb05f534912560a1.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-3e0d6db1da5e44a59fd0b5bcb3acae2d.html" target="element"> Data Management Plan </a> </td>
+																		<td> <a href="../elements/id-ee1741e5c1b740b6bedd87d79afdad59.html" target="element"> Project Proposal </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-39e315e6cd6f4488aab64317f693ccfe.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-39e315e6cd6f4488aab64317f693ccfe.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8af1049318c844208418f585711460bd.html" target="element"> Data Production </a> </td>
+																		<td> <a href="../elements/id-0cedc438075c49f1ae5cdb4771d5e40b.html" target="element"> Data Processing </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-09a598ef5d0c485980b63b4a85187a06.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-09a598ef5d0c485980b63b4a85187a06.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-8af1049318c844208418f585711460bd.html" target="element"> Data Production </a> </td>
+																		<td> <a href="../elements/id-3e0d6db1da5e44a59fd0b5bcb3acae2d.html" target="element"> Data Management Plan </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-8093ea8d0c6e41ce99e16990d9050bcd.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-8093ea8d0c6e41ce99e16990d9050bcd.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-0cedc438075c49f1ae5cdb4771d5e40b.html" target="element"> Data Processing </a> </td>
+																		<td> <a href="../elements/id-abe24cf55eb84fad89a42d741c539391.html" target="element"> Data Publication </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-02b0bd0383cd4a439efd9511362cf4d2.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-02b0bd0383cd4a439efd9511362cf4d2.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-0cedc438075c49f1ae5cdb4771d5e40b.html" target="element"> Data Processing </a> </td>
+																		<td> <a href="../elements/id-8af1049318c844208418f585711460bd.html" target="element"> Data Production </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-e76e705750434719bf9dc3e2badbc293.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e76e705750434719bf9dc3e2badbc293.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-abe24cf55eb84fad89a42d741c539391.html" target="element"> Data Publication </a> </td>
+																		<td> <a href="../elements/id-951cb0a56d5e470aa0a036e260976291.html" target="element"> Preserve, Discard, Reuse </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-52de980f8896456285ffa41200a08c8f.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-52de980f8896456285ffa41200a08c8f.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-abe24cf55eb84fad89a42d741c539391.html" target="element"> Data Publication </a> </td>
+																		<td> <a href="../elements/id-0cedc438075c49f1ae5cdb4771d5e40b.html" target="element"> Data Processing </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-b4015fbb50a14ed59768e262a1367c8d.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-b4015fbb50a14ed59768e262a1367c8d.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-951cb0a56d5e470aa0a036e260976291.html" target="element"> Preserve, Discard, Reuse </a> </td>
+																		<td> <a href="../elements/id-ee1741e5c1b740b6bedd87d79afdad59.html" target="element"> Project Proposal </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-451cd8bed3c246138fe5dd023ad12628.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-451cd8bed3c246138fe5dd023ad12628.html" target="element" class="i18n-elementtype-TriggeringRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-951cb0a56d5e470aa0a036e260976291.html" target="element"> Preserve, Discard, Reuse </a> </td>
+																		<td> <a href="../elements/id-abe24cf55eb84fad89a42d741c539391.html" target="element"> Data Publication </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-65707869bc3a420c8fc56ac8bd5c04ce.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-65707869bc3a420c8fc56ac8bd5c04ce.html" target="element" class="i18n-elementtype-ServingRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a20c7c7d11684fe29996e6daa41bdada.html" target="element"> Infrastructure Governance </a> </td>
+																		<td> <a href="../elements/id-ee1741e5c1b740b6bedd87d79afdad59.html" target="element"> Project Proposal </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-6874c03182f7424ca060116f32c80c21.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-6874c03182f7424ca060116f32c80c21.html" target="element" class="i18n-elementtype-ServingRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a20c7c7d11684fe29996e6daa41bdada.html" target="element"> Infrastructure Governance </a> </td>
+																		<td> <a href="../elements/id-8c56071da1414281a3487296162d0261.html" target="element"> Project consulting </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-5f8c800065674883a0cc49e17d133d09.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-5f8c800065674883a0cc49e17d133d09.html" target="element" class="i18n-elementtype-ServingRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a20c7c7d11684fe29996e6daa41bdada.html" target="element"> Infrastructure Governance </a> </td>
+																		<td> <a href="../elements/id-77a46bd4b2b84f639fb085c3df4d63c4.html" target="element"> Preservation Support </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-781cc22288b94421b92649b1b396d024.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-781cc22288b94421b92649b1b396d024.html" target="element" class="i18n-elementtype-ServingRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a20c7c7d11684fe29996e6daa41bdada.html" target="element"> Infrastructure Governance </a> </td>
+																		<td> <a href="../elements/id-039b2b7a1d91446f9a68e93031ae1e70.html" target="element"> FAIR Research Support </a> </td>
+																	</tr>
+																	<tr>
+																		<td> <a href="../elements/id-d9458087f3184e6db447fa421e6d13f5.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-d9458087f3184e6db447fa421e6d13f5.html" target="element" class="i18n-elementtype-ServingRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-a20c7c7d11684fe29996e6daa41bdada.html" target="element"> Infrastructure Governance </a> </td>
+																		<td> <a href="../elements/id-d233737f466f45519da3107b45acfd3f.html" target="element"> FAIR Publication Support </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-d72de063a3f14e489c531f0ab468f614.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-d72de063a3f14e489c531f0ab468f614.html" target="element" class="i18n-elementtype-ServingRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-77a46bd4b2b84f639fb085c3df4d63c4.html" target="element"> Preservation Support </a> </td>
+																		<td> <a href="../elements/id-951cb0a56d5e470aa0a036e260976291.html" target="element"> Preserve, Discard, Reuse </a> </td>
+																	</tr>
+
+																	<tr>
+																		<td> <a href="../elements/id-e0be8bd271c84a84820b6f227595b0bb.html" target="element">  </a> </td>
+																		<td> <a href="../elements/id-e0be8bd271c84a84820b6f227595b0bb.html" target="element" class="i18n-elementtype-ServingRelationship">
+																		</a> </td>
+																		<td> <a href="../elements/id-c45faf95dc9142ac9d8b429fe3393116.html" target="element"> FAIR Workflow Support </a> </td>
+																		<td> <a href="../elements/id-0cedc438075c49f1ae5cdb4771d5e40b.html" target="element"> Data Processing </a> </td>
+																	</tr>
+
+
+								</tbody>
+							</table>
+						</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
