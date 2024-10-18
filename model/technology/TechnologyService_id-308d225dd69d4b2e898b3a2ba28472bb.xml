@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validation Tools"
+    id="id-308d225dd69d4b2e898b3a2ba28472bb"
+    documentation="Data quality management tools that monitor and validate metadata to identify discrepancies, missing fields, or inconsistencies."/>

@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontology &amp; Linked Data Platforms"
     id="id-ca8ec5464dbb408d897ca621c79c40b0"
-    documentation="Formal representations of knowledge as a set of concepts and the relationships between them, used to model domain knowledge for data integration and semantic interoperability."/>
+    documentation="Formal representations of knowledge (Classes, properties and instances) as a set of concepts and the relationships between them, used to model domain knowledge and integrating data from multiple sources to semantically interoperable data model."/>

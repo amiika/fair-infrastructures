@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Research notebooks"
-    id="id-64e4b2689bd1458e94dbd4d2a1a6cc4d"/>
+    id="id-64e4b2689bd1458e94dbd4d2a1a6cc4d"
+    documentation="Interactive notebooks, digital tools or platforms designed to support and enhance scientific research, experimentation, and analysis. They function as a dynamic environment where researchers can record, execute, and visualize code, document processes, and share results in an integrated and collaborative manner."/>
