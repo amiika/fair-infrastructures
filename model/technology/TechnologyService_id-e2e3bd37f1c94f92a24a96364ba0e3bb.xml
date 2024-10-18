@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Storage"
     id="id-e2e3bd37f1c94f92a24a96364ba0e3bb"
-    documentation="Systems used to store data, including different types of databases, data warehouses, data lakes, cloud storage solutions. Categorization The list is endless."/>
+    documentation="Systems and formats used to store data, including different types of databases, data warehouses, data lakes, cloud storage solutions and transaction formats. The list is endless and the high level categorization is mainly used to exemplify that there are different types of data storage and transaction formats to suit different needs."/>

@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Staging System"
     id="id-dfc4619d1573425b872404e1efc8b1b8"
-    documentation="A system used to temporarily store data before it is processed and moved to a final destination, often used in data warehousing and integration."/>
+    documentation="A system used to temporarily store data before it is processed and moved to a final destination, often used as a first step in data cleaning, data warehousing and integration platforms."/>
