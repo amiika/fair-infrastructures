@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Graph"
     id="id-109f53b9df184ca49019553bc74fb1ab"
-    documentation="A type of database that uses graph structures with nodes, edges, and properties to store and represent data, enabling efficient querying of relationships."/>
+    documentation="A type of database that uses graph structures with nodes, edges, and properties to store and represent data, enabling data integration and efficient querying of relationships. Different types of graph databases like RDF, propery graph and in-memory graph databases offer diverse functionalities suitable for specialized applications to support different use cases that use high variety, interconnected and dynamic data from multiple sources."/>
